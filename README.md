@@ -4,7 +4,7 @@
 
 [![Banner](https://discord.c99.nl/widget/theme-2/774698789851234344.png)](https://discord.c99.nl/widget/theme-2/774698789851234344.png)
 
-##### Coding C C++ C# Java and Python
+##### Coding C C++ C# Java and Python and I'm a Reverse engineer
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Spuckwaffel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSpuckwaffel&screen_name=Spuckwaffel)
 
@@ -12,3 +12,5 @@
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Spuckwaffel&theme=highcontrast&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Spuckwaffel&theme=highcontrast&show_icons=true)
+
+Did you know that ntoskrnl .text hook is ud on BE and EAC?
