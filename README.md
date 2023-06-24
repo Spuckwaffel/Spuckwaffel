@@ -1,13 +1,30 @@
-### Hi there, I'm Spuckwaffel 
----
-Follow me on Twitter or add me on discord: Spuckwaffel#5000
+<h1>Spuckwaffel</h1>
 
-[![Banner](https://discord.c99.nl/widget/theme-2/774698789851234344.png)](https://discord.c99.nl/widget/theme-2/774698789851234344.png)
+<p>Hi there, I'm Spuckwaffel! Welcome to my GitHub profile.</p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Spuckwaffel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSpuckwaffel&screen_name=Spuckwaffel)
+<p>Follow me on Twitter or add me on Discord:</p>
 
-Coding C C++ C# Java and Python and I'm a Reverse engineer
+<a href="https://discord.c99.nl/widget/theme-2/774698789851234344.png">
+  <img src="https://discord.c99.nl/widget/theme-2/774698789851234344.png" alt="Discord" />
+</a>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Spuckwaffel&theme=highcontrast&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Spuckwaffel&theme=highcontrast&show_icons=true)
+<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSpuckwaffel&screen_name=Spuckwaffel">
+  <img src="https://img.shields.io/twitter/follow/Spuckwaffel?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+</a>
 
-Did you know that ntoskrnl .text hook is ud on BE and EAC?
+<h2>About Me</h2>
+
+<p>Feel free to check out my repositories and projects. Here are some stats about my languages:</p>
+
+<a href="https://github.com/Spuckwaffel/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spuckwaffel&layout=compact&theme=highcontrast" alt="Top Languages" />
+</a>
+
+<h2>Contact Me</h2>
+
+<p>You can reach out to me on the following platforms:</p>
+
+<ul>
+  <li>Twitter: <a href="https://twitter.com/Spuckwaffel">Spuckwaffel</a></li>
+  <li>Discord: Spuckwaffel#5000</li>
+</ul>
