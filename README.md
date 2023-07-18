@@ -14,9 +14,10 @@
 
 <h2>About Me</h2>
 
-<p>Feel free to check out my repositories and projects. Here are some stats about my languages:</p>
+<p>Feel free to check out my repositories and projects. Here are some stats about me:</p>
 
 <a href="https://github.com/Spuckwaffel/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Spuckwaffel&theme=highcontrast&show_icons=true" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spuckwaffel&layout=compact&theme=highcontrast" alt="Top Languages" />
 </a>
 
@@ -26,5 +27,5 @@
 
 <ul>
   <li>Twitter: <a href="https://twitter.com/Spuckwaffel">Spuckwaffel</a></li>
-  <li>Discord: Spuckwaffel#5000</li>
+  <li>Discord: Spuckwaffel</li>
 </ul>
