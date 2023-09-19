@@ -16,7 +16,7 @@
 
 <p>Feel free to check out my repositories and projects. Here are some stats about me:</p>
 
-<a href="https://github.com/Spuckwaffel/github-readme-stats">
+<a href="https://github.com/Spuckwaffel">
   <img src="https://github-readme-stats.vercel.app/api?username=Spuckwaffel&theme=highcontrast&show_icons=true" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spuckwaffel&layout=compact&theme=highcontrast" alt="Top Languages" />
   <img src="https://komarev.com/ghpvc/?username=spuckwaffel&label=Profile+Views&style=flat-square" alt="Views" />
