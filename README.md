@@ -1,7 +1,7 @@
 <h1>Spuckwaffel</h1>
 
 <p>Hi there, I'm Spuckwaffel! Welcome to my GitHub profile.</p>
-<p>I enjoy reverse engineering or breaking games, but sometimes I write websites too. All my open source projects are made in my free time and not for monetary gain.</p>
+<p>I enjoy reverse engineering or breaking games, but sometimes I write websites too. All my open source projects were made in my free time and not for monetary gain.</p>
 
 <p>Follow me on Twitter or add me on Discord:</p>
 
@@ -26,8 +26,9 @@
 <h2>Contact Me</h2>
 
 <p>You can reach out to me on the following platforms:</p>
-
+<p>Messages that are not important or are cheat related will be ignored.</p>
 <ul>
   <li>Twitter: <a href="https://twitter.com/Spuckwaffel">Spuckwaffel</a></li>
   <li>Discord: Spuckwaffel</li>
+  <li>Mail: contact-github@spuckwaffel.com</li>
 </ul>
