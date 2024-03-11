@@ -3,14 +3,8 @@
 <p>Hi there, I'm Spuckwaffel! Welcome to my GitHub profile.</p>
 <p>I enjoy reverse engineering or breaking games, but sometimes I write websites too. All my open source projects were made in my free time and not for monetary gain.</p>
 
-<p>Follow me on Twitter or add me on Discord:</p>
-
 <a href="https://discord.c99.nl/widget/theme-2/774698789851234344.png">
   <img src="https://discord.c99.nl/widget/theme-2/774698789851234344.png" alt="Discord" />
-</a>
-
-<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSpuckwaffel&screen_name=Spuckwaffel">
-  <img src="https://img.shields.io/twitter/follow/Spuckwaffel?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow" />
 </a>
 
 <h2>About Me</h2>
