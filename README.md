@@ -1,6 +1,7 @@
 <h1>Spuckwaffel</h1>
 
 <p>Hi there, I'm Spuckwaffel! Welcome to my GitHub profile.</p>
+<p>I enjoy reverse engineering or breaking games, but sometimes I write websites too. All my open source projects are made in my free time and not for monetary gain.</p>
 
 <p>Follow me on Twitter or add me on Discord:</p>
 
